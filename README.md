@@ -1,2 +1,2 @@
 # Kotaurants
-Android demo app (written in Kotlin) to show near by restaurants, using Yelp API
+Near by restaurants Android demo using Yelp API, written in Kotlin
